@@ -1,5 +1,4 @@
-# module-3-challenge
-week 3 challenge 3 
+##Password Generator
 
 # Module 3 Challenge 3
 Password Generator
